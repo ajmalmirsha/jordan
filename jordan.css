@@ -1,0 +1,260 @@
+body{
+    margin: 0px;
+}
+.main-container{
+    width: 100%;
+    height: 1000px;
+    background-color: white;
+} 
+.top{
+    width: 100%;
+    height: 75px;
+    background-color: black;
+    position: fixed;
+}
+.timg{
+    margin-left: 60px;
+   
+}
+.simg{
+    margin-top: 8px;
+}
+.tall{
+    width: 660px;
+    height: 75px;
+    margin-top: -72px;
+    margin-left: 436px;
+}
+.htxt{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    margin-top: 30px;
+}
+.htxt2{
+      color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    margin-top: -40px;
+    margin-left: 45px;
+}
+.htxt3{
+    color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+  margin-top: -40px;
+  margin-left: 145px;
+}
+.hdv{
+    width: 70px;
+    height: 40px;
+}
+.htxt4{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    margin-top: -40px;
+    margin-left: 260px;
+}
+.htx5{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    margin-top: -40px;
+    margin-left: 380px;
+}
+.top2{
+    width: 100%;
+    height: 311px;
+    background-color: white;
+}
+.t2{
+    width: 100%;
+    margin-top: 75px;
+}
+.side-bar{
+    width: 319px;
+    height: 600px;
+    padding-top: 13px;
+    background-color: white;
+}
+.sub-bar{
+    width: 250px;
+    height: 438px;
+    margin-left: 67px;
+   border-style: groove;
+   border-width: 1px;
+   border-color: rgb(254, 253, 253);
+}
+.stex{
+    color: red;
+    padding-left: 11px;
+    padding-top: 35px;
+    font-weight: 600;
+    font-size: 16px;
+    font-family: "Inter",sans-serif ;
+}
+.right-bar{
+    margin-left: 331px;
+    margin-top: -543px;
+    width: 932px;
+    height: 1250px;
+    background-color: white;
+}
+.one-box{
+   
+    
+    width: 218px;
+    height: 340px;
+    background-color: white;
+}
+.cls{
+    border: 2px;
+}
+.image{
+    width: 218px;
+}
+.text{
+    margin-top: -5px;
+    font-weight: 100;
+    text-align: left;
+    margin-left: 25px;
+}
+.subtext{
+    color: rgb(160, 158, 158);
+    margin-right: 106px;
+    margin-top: 27px;
+    font-size: 14px;
+}
+.price{
+    margin-top: -24px;
+    margin-left: -106px;
+    font-weight: bolder;
+    height: 500px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
+}
+.subtext2{
+    color: rgb(160, 158, 158);
+    margin-right: 106px;
+    margin-top: -8px;
+    font-size: 14px;
+}
+.price2{
+    margin-top: -24px;
+    margin-left: -106px;
+    font-weight: bolder;
+    height: 500px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
+}
+.btn{
+    width: 277px;
+    height: 45px;
+    background-color: black;
+    margin-top: 67px;
+    margin-left: 295px;
+    border-radius: 5px;
+    color: white;
+    font-size: 16px;
+    padding-left: center;
+}
+.btm{
+    width: 100%;
+    height: 540px;
+    background-color: black;
+}
+.bthead{
+    padding-top: 15px;
+    margin-left: 52px;
+    color: red;
+
+}
+.btsub{
+    color: white;
+    margin-left: 52px;
+}
+.btmsss{
+    margin-top: -302px;
+    margin-left: 326px;
+    background-color: black;
+    width: 172px;
+    height: 278px;
+}
+.bthead2{
+   padding-top: 15px;
+    margin-left: -1px;
+    color: red;
+
+
+}
+.instu{
+    width: 50px;
+    height: 50px;
+}
+.inst{
+    
+    width: 50px;
+    height: 50px;
+    padding-left: 10px;
+}
+.legal{
+    margin-left: 642px;
+    background-color: black;
+    margin-top: -299px;
+    width: 172px;
+    height: 278px;
+}
+.btsub2{
+    color: white;
+}
+.cont{
+    margin-left: 953px;
+    margin-top: -300px;
+}
+.btsub3{
+    color: white;
+    margin-top: -20px;
+}
+.uu{
+    border-top: 1px solid rgba(255,255,255,.2);
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 110px;
+}
+.ghj{
+    margin-left: 500px;
+    margin-top: 30px;
+}
+.ll{
+    border-top: 1px solid rgba(255,255,255,.2);
+    width: 90%;
+    margin-left: 5%;
+    
+}
+.yu{
+    color: white;
+}
+.uy{
+    width: 425px;
+    height: 40px;
+    margin-left: 518px;
+}
+.htx6{
+    margin-left: 448px;
+    color: white;
+    margin-top: -40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+.htx7{
+    margin-left: 540px;
+    color: white;
+    margin-top: -40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+.v{
+    margin-top: -18px;
+    margin-left: 200px;
+}
